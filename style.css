@@ -1,7 +1,12 @@
 .navbar{
-    background-color: aqua;
+    background-color: rgb(12, 59, 59);
+    padding: 10px 10px 10px 10px;
 }
 
 ul{
     list-style-type: none;
+}
+
+body{
+    background-color: black;
 }
